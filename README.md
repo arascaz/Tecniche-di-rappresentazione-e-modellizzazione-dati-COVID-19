@@ -21,5 +21,5 @@ pip install -r requirements.txt
 ```
 
 I dati utilizzati in questo progetto sono scaricabili dalla repository ufficiale della Protezione Civile:
-https://github.com/pcm-dpc/COVID-19/
+https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
 
