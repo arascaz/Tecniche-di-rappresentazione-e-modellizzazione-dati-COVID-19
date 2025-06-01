@@ -2,7 +2,7 @@
 Analisi modellistica dei contagi COVID-19 in Friuli Venezia Giulia tramite modelli di crescita logistica e Gompertz, con visualizzazioni, ottimizzazione e inferenza bayesiana.
 # Analisi dei contagi COVID-19 in Friuli Venezia Giulia
 
-Questo progetto contiene un'analisi completa dell'evoluzione dei contagi COVID-19 nella regione Friuli Venezia Giulia, utilizzando modelli di crescita (Logistica e Gompertz) e metodi statistici avanzati per la stima dei parametri.
+Questo progetto contiene un'analisi completa dell'evoluzione dei contagi COVID-19 nella regione Friuli Venezia Giulia, utilizzando modelli di crescita (Logistica e Gompertz) e metodi statistici per la stima dei parametri.
 
 ## 📈 Contenuti principali
 
