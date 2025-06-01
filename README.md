@@ -16,6 +16,10 @@ Questo progetto contiene un'analisi completa dell'evoluzione dei contagi COVID-1
 ## 🛠 Requisiti
 
 Installare le dipendenze con:
-
 ```bash
 pip install -r requirements.txt
+```
+
+I dati utilizzati in questo progetto sono scaricabili dalla repository ufficiale della Protezione Civile:
+https://github.com/pcm-dpc/COVID-19
+
